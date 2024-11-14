@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## My Name is Fiacre Uwimpuhwe but i use Fiacre Dev As The name of career..
+## My name is Fiacre Uwimpuhwe but i use Fiacre Dev as the name of career..
 
 ## More
 
