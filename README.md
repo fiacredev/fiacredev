@@ -37,21 +37,7 @@ Here are some of the projects I've worked on:
 ### [Another Project](link-to-repo)
 - 📝 Brief description and any interesting features or challenges solved in this project.
 
-You can explore more of my work on my [GitHub repositories](https://github.com/[your-github-username]).
-
-## 👾 Open-Source Contributions
-
-I love contributing to open-source! Here are a few projects I’ve contributed to:
-
-- [Project Name](link-to-project) - Brief description of your contribution.
-- [Another Project](link-to-project) - What you did to help improve the project.
-
-## 📚 Blog & Articles
-
-I also share my knowledge through blog posts and articles on topics like development best practices, new technologies, and career tips:
-
-- [Blog Title 1](link-to-article)
-- [Blog Title 2](link-to-article)
+You can explore more of my work on my GitHub repositories (https://github.com/fiacredev).
 
 ## 📬 Let's Connect!
 
