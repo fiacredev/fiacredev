@@ -1,27 +1,26 @@
-## Hi there 👋# 👨‍💻 Hello, I'm [Your Name]!
+## Hi there 👋# 👨‍💻 Hello, I'm Fiacre Dev!
 
 Welcome to my GitHub profile! I'm an intermediate software developer passionate about building scalable, efficient, and user-friendly applications. I enjoy learning new technologies, contributing to open-source, and solving complex problems with clean code.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [mention your current project or area of focus].
-- 🌱 I’m learning [mention new technologies you're exploring, e.g., AI, cloud, etc.].
+- 🔭 I’m currently working on issue tracker in Next Js.
+- 🌱 I’m learning Dart And Flutter.
 - 👯 I’m looking to collaborate on interesting open-source projects and contribute to the community.
-- 🤔 I’m looking for help with [mention any specific tech or coding problems you're facing].
-- 💬 Ask me about [mention tech stacks or topics you're knowledgeable in, e.g., JavaScript, Python, React, etc.].
-- 📫 How to reach me: [email, LinkedIn, or other contact methods].
-- ⚡ Fun fact: [a fun personal fact or something unique about you].
+- 🤔 I’m looking for help with Developers Who are get Used in game.
+- 💬 Ask me about JavaScript, Python, React, Tailwind etc.].
+- 📫 How to reach me: fiacredeveloper@gmail.com.
+- ⚡ Fun fact: i am musician at the same time with coder.
 
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools I use:
 
-- **Programming Languages**: JavaScript, Python, Java, TypeScript, C++
-- **Web Development**: React, Node.js, Express, HTML5, CSS3
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Version Control**: Git, GitHub, GitLab
-- **DevOps & Cloud**: Docker, Kubernetes, AWS, Azure
-- **Other Tools**: VS Code, Postman, Figma, Jira, Firebase
+- **Programming Languages**: JavaScript, Python, Php, TypeScript, Dart
+- **Web Development**: React, Node.js, Express, HTML5, CSS, Tailwind.
+- **Databases**: MongoDB, MySQL.
+- **Version Control**: Git, GitHub.
+- **Other Tools**: VS Code, Postman.
 
 ## 📈 GitHub Stats
 
@@ -65,9 +64,3 @@ Feel free to reach out to me:
 Thanks for visiting my profile! 😊
 
 
-## My name is Fiacre Uwimpuhwe but i use Fiacre Dev as the name of career..
-
-## More
-
-i am software developer where coding is my talent and passion, and i would like to collaborate on different projects....
-if possible we can hang with and chill.. thanks
