@@ -43,7 +43,7 @@ You can explore more of my work on my GitHub repositories (https://github.com/fi
 
 Feel free to reach out to me:
 
-- 📧 Email: [Your Email]
+- 📧 Email: fiacredeveloper@gmail.com
 - 💼 LinkedIn: [Your LinkedIn Profile]
 - 🌐 Personal Website: [Your Website or Portfolio]
 
