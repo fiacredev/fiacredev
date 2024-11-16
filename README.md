@@ -22,10 +22,6 @@ Here are some of the technologies and tools I use:
 - **Version Control**: Git, GitHub.
 - **Other Tools**: VS Code, Postman.
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[fiacredev]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
-
 ## 🌟 Projects
 
 Here are some of the projects I've worked on:
