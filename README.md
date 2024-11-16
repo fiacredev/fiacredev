@@ -24,7 +24,7 @@ Here are some of the technologies and tools I use:
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[fiacredev]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
 
 ## 🌟 Projects
 
@@ -44,8 +44,8 @@ You can explore more of my work on my GitHub repositories (https://github.com/fi
 Feel free to reach out to me:
 
 - 📧 Email: fiacredeveloper@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🌐 Personal Website: [Your Website or Portfolio]
+- 💼 LinkedIn: [my account hacked not yet revoverd]
+- 🌐 Personal Website: [i ma still working on it.]
 
 Thanks for visiting my profile! 😊
 
