@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm an intermediate software developer passionate 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on issue tracker in Next Js.
+- 🔭 I’m currently working on issue tracker system in Next Js.
 - 🌱 I’m learning Dart And Flutter.
 - 👯 I’m looking to collaborate on interesting open-source projects and contribute to the community.
 - 🤔 I’m looking for help with Developers Who are get Used in game.
