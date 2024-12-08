@@ -1,4 +1,4 @@
-## Hi there 👋# 👨‍💻 Hello, I'm Fiacre Dev!
+## Hi there Oooh 👋# 👨‍💻 Hello, I'm Fiacre Dev!
 
 Welcome to my GitHub profile! I'm an intermediate software developer passionate about building scalable, efficient, and user-friendly applications. I enjoy learning new technologies, contributing to open-source, and solving complex problems with clean code.
 
