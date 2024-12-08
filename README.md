@@ -1,4 +1,4 @@
-## Hi there Oooh 👋# 👨‍💻 Hello, I'm Fiacre Dev!
+## Hi there👋# 👨‍💻 Hello, I'm Fiacre Dev!
 
 Welcome to my GitHub profile! I'm an intermediate software developer passionate about building scalable, efficient, and user-friendly applications. I enjoy learning new technologies, contributing to open-source, and solving complex problems with clean code.
 
@@ -40,7 +40,7 @@ You can explore more of my work on my GitHub repositories (https://github.com/fi
 Feel free to reach out to me:
 
 - 📧 Email: fiacredeveloper@gmail.com
-- 💼 LinkedIn: [my account hacked not yet revoverd]
+- 💼 LinkedIn: [my account hacked not yet recovered]
 - 🌐 Personal Website: [i ma still working on it.]
 
 Thanks for visiting my profile! 😊
