@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm an intermediate software developer passionate 
 - 🌱 I’m learning Dart And Flutter.
 - 👯 I’m looking to collaborate on interesting open-source projects and contribute to the community.
 - 🤔 I’m looking for help with Developers Who are get Used in game.
-- 💬 Ask me about JavaScript, Python, React, Tailwind etc.].
+- 💬 Ask me about JavaScript, Python, React, Tailwind Css etc.
 - 📫 How to reach me: fiacredeveloper@gmail.com.
 - ⚡ Fun fact: i am musician at the same time with coder.
 
