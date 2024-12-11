@@ -26,12 +26,12 @@ Here are some of the technologies and tools I use:
 
 Here are some of the projects I've worked on:
 
-### [Project Name](link-to-repo)
-- 📝 Description of the project, key features, and technologies used.
-- ⭐️ Highlight some of the most important aspects or contributions you made.
+### [Online Bank System](https://github.com/fiacredev/online-bank-system-php)
+- 📝 this is bank system which handle all essential aspects dealt with banks, key features of this project is Transaction Features in the Project, and technologies used in this project is Php And other Languages Like Html Css And Javascript.
+- ⭐️ some of the most important aspects that i made is creating account , different bank accounts and transactions processes like deposing withdrawing and money transfering from one account to another.
 
-### [Another Project](link-to-repo)
-- 📝 Brief description and any interesting features or challenges solved in this project.
+### [Job Landing](link-to-repo)
+- 📝 this is mobile application about job landing where i tried to handle project using online api which store all job details data that i used in this project..
 
 You can explore more of my work on my GitHub repositories (https://github.com/fiacredev).
 
