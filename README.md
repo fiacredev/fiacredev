@@ -30,7 +30,7 @@ Here are some of the projects I've worked on:
 - 📝 this is bank system which handle all essential aspects dealt with banks, key features of this project is Transaction Features in the Project, and technologies used in this project is Php And other Languages Like Html Css And Javascript.
 - ⭐️ some of the most important aspects that i made is creating account , different bank accounts and transactions processes like deposing withdrawing and money transfering from one account to another.
 
-### [Job Landing](link-to-repo)
+### [Job Landing](https://github.com/fiacredev/job-landing-react-native)
 - 📝 this is mobile application about job landing where i tried to handle project using online api which store all job details data that i used in this project..
 
 You can explore more of my work on my GitHub repositories (https://github.com/fiacredev).
