@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm an intermediate software developer passionate 
 - 🤔 I’m looking for help with Developers Who are get Used in game.
 - 💬 Ask me about JavaScript, Python, React, Tailwind Css etc.
 - 📫 How to reach me: fiacredeveloper@gmail.com.
-- ⚡ Fun fact: i am musician at the same time with coder.
+- ⚡ Fun fact: I am a musician and a coder simultaneously.
 
 ## 🔧 Technologies & Tools
 
