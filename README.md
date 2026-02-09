@@ -1,16 +1,16 @@
-## Hi there👋# 👨‍💻 Hello, I'm Fiacre Dev!
+# Hello, I'm Fiacre Dev!
 
 Welcome to my GitHub profile! I'm an intermediate software developer passionate about building scalable, efficient, and user-friendly applications. I enjoy learning new technologies, contributing to open-source, and solving complex problems with clean code.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on issue tracker system in Next Js.
-- 🌱 I’m learning Dart And Flutter.
-- 👯 I’m looking to collaborate on interesting open-source projects and contribute to the community.
-- 🤔 I’m looking for help with Developers Who are get Used in game.
-- 💬 Ask me about JavaScript, Python, React, Tailwind Css etc.
-- 📫 How to reach me: fiacredeveloper@gmail.com.
-- ⚡ Fun fact: I am a musician and a coder simultaneously.
+-  I’m currently working on issue tracker system in Next Js.
+-  I’m learning Dart And Flutter.
+-  I’m looking to collaborate on interesting open-source projects and contribute to the community.
+-  I’m looking for help with Developers Who are get Used in game.
+-  Ask me about JavaScript, Python, React, Tailwind Css etc.
+-  How to reach me: fiacredeveloper@gmail.com.
+-  Fun fact: I am a musician and a coder simultaneously.
 
 ## 🔧 Technologies & Tools
 
@@ -22,7 +22,7 @@ Here are some of the technologies and tools I use:
 - **Version Control**: Git, GitHub.
 - **Other Tools**: VS Code, Postman.
 
-## 🌟 Projects
+## Projects
 
 Here are some of the projects I've worked on:
 
@@ -35,13 +35,13 @@ Here are some of the projects I've worked on:
 
 You can explore more of my work on my GitHub repositories (https://github.com/fiacredev).
 
-## 📬 Let's Connect!
+## Let's Connect!
 
 Feel free to reach out to me:
 
-- 📧 Email: fiacredeveloper@gmail.com
-- 💼 LinkedIn: [my account hacked not yet recovered]
-- 🌐 Personal Website: [i ma still working on it.]
+- Email: fiacredeveloper@gmail.com
+- LinkedIn: [my account hacked not yet recovered]
+- Personal Website: [i ma still working on it.]
 
 Thanks for visiting my profile! 😊
 
