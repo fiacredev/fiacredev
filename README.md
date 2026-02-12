@@ -17,15 +17,15 @@
 
 ```javascript
 const devStack = {
-  languages: ["JavaScript", "TypeScript", "Python", "Go"],
-  frontend: ["React", "Next.js", "Vue", "Tailwind CSS"],
-  backend: ["Node.js", "Express", "FastAPI"],
-  databases: ["MongoDB", "PostgreSQL", "Redis"],
-  tools: ["Git", "Docker", "VS Code", "Postman"],
+  languages: ["JavaScript", "TypeScript", "Python"],
+  frontend: ["React", "Next.js", "Tailwind CSS"],
+  backend: ["Node.js", "Express", "RestAPI", "Webservices", "System Integration"],
+  databases: ["MongoDB", "PostgreSQL", "Mysql", "Neon"],
+  tools: ["Git", "VS Code", "Postman"],
   cloud: ["Vercel", "Netlify"]
 };
 
-const me = { stack: ["JS/TS", "React", "Node", "Mongo", "Docker"], mindset: "builder", success: false };
+const me = { stack: ["JS/TS", "React", "Node", "Mongo", "Netlify"], mindset: "builder", success: false };
 
 while (me.mindset === "builder") {
   experiment(devStack);
@@ -50,7 +50,7 @@ while (me.mindset === "builder") {
 
 <div align="center">
   
-  <a href="mailto:youremail@example.com" style="text-decoration:none;">
+  <a href="mailto:f.uwimpuhwe@alustudent.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-Connect-blue?style=for-the-badge&logo=gmail" alt="Email">
   </a>
   
@@ -62,7 +62,7 @@ while (me.mindset === "builder") {
   
   <hr style="width: 50%; border: 1px solid #ccc; margin: 10px 0;">
 
-  <a href="https://github.com/yourusername" style="text-decoration:none;">
+  <a href="https://github.com/fiacredev" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 
