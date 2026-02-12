@@ -1,4 +1,4 @@
-<small>**Turning ideas into code is my skill, and my heart belongs to algorithms. Every challenge is an opportunity to create magic code! 🧠💻**</small>
+<small>**Turning ideas into code is my skills, and my heart belongs to algorithms. Every challenge is an opportunity to create magic code! 🧠💻**</small>
 
 
 <p align="center">
