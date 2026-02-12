@@ -1,4 +1,4 @@
-<small>**Turning ideas into code is my skills, and my heart belongs to algorithms. Every challenge is an opportunity to create magic code! 🧠💻**</small>
+<small>**Turning ideas into code is my passion, and my heart truly belongs to algorithms. Every challenge is an opportunity to create magic with code! 🧠💻**</small>
 
 
 <p align="center">
@@ -56,16 +56,16 @@ while (me.mindset === "builder") {
   
   <hr style="width: 50%; border: 1px solid #ccc; margin: 10px 0;"> <!-- Horizontal line -->
 
-  <a href="https://www.linkedin.com/in/yourprofile/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  
-  <hr style="width: 50%; border: 1px solid #ccc; margin: 10px 0;">
-
   <a href="https://github.com/fiacredev" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 
+  <hr style="width: 50%; border: 1px solid #ccc; margin: 10px 0;">
+  
+  <a href="https://www.linkedin.com/in/yourprofile/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  
   <hr style="width: 50%; border: 1px solid #ccc; margin: 20px 0;">
 
   I’m obsessed with coding, and I live and breathe code. Coding runs through my veins, and my heart beats in every line I write. ❤️✨
