@@ -1,4 +1,5 @@
-## Turning ideas into code is my superpower, and my heart belongs to algorithms. Every challenge is an opportunity to create magic with code! 🧠💻
+<small>**Turning ideas into code is my superpower, and my heart belongs to algorithms. Every challenge is an opportunity to create magic with code! 🧠💻**</small>
+
 
 <p align="center">
   <img 
