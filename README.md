@@ -12,6 +12,7 @@
 
 ## Tools I'm Comfortable With
 
+```javascript
 const devStack = {
   languages: ["JavaScript", "TypeScript", "Python", "Go"],
   frontend: ["React", "Next.js", "Vue", "Tailwind CSS"],
