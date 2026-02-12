@@ -40,6 +40,7 @@ while (me.mindset === "builder") {
     break;
   }
 }
-
+````
 ### It would be great to connect with you.
+
 - [It would be great to connect.](mailto:youremail@example.com)  
