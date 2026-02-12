@@ -43,4 +43,20 @@ while (me.mindset === "builder") {
 ````
 ### It would be great to connect with you.
 
-- [It would be great to connect.](mailto:youremail@example.com)  
+<div align="center">
+  
+<a href="mailto:youremail@example.com" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Email-Connect-blue?style=for-the-badge&logo=gmail" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/yourprofile/" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="https://github.com/yourusername" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+
+<br><br>
+Looking forward to collaborating and sharing ideas!  
+
+</div>
+
