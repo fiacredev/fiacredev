@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm an intermediate software developer passionate 
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=Ship+Code.;Build+Cool+Things.;Always+Learning.;Full-Stack+Developer." />
 </p> -->
 
-<!-- <p align="center">
+<<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="60%" />
-</p> -->
+</p>
 
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00D9FF&center=true&vCenter=true&width=900&lines=Code.+Ship.+Repeat.;Turning+Ideas+into+Reality.;Builder+Mindset+Active." />
