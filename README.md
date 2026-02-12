@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile! I'm an intermediate software developer passionate about building scalable, efficient, and user-friendly applications. I enjoy learning new technologies, contributing to open-source, and solving complex problems with clean code.
 
+
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> </p>
+
 ## 🚀 About Me
 
 -  I’m currently working on issue tracker system in Next Js.
