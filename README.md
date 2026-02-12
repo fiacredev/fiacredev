@@ -50,9 +50,11 @@ while (me.mindset === "builder") {
 
 <div align="center">
   
-  <a href="mailto:f.uwimpuhwe@alustudent.com" style="text-decoration:none;">
+<a href="mailto:f.uwimpuhwe@alustudent.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-Connect-blue?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
+</a>
+
+
   
   <hr style="width: 50%; border: 1px solid #ccc; margin: 10px 0;"> <!-- Horizontal line -->
 
