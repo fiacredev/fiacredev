@@ -1,5 +1,5 @@
 <p align="center">
-  <sub><h5><b>Turning ideas into code is my passion, and my heart truly belongs to algorithms. Every challenge is an opportunity to create magic with code! 🧠💻</b></h5>/sub>
+  <h5><b><sub>Turning ideas into code is my passion, and my heart truly belongs to algorithms. Every challenge is an opportunity to create magic with code! 🧠💻</sub></b></h5>
 </p>
 
 <p align="center">
@@ -63,5 +63,5 @@ while (me.mindset === "builder") {
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="18"/>
 </a>
 <br>
-<sub><i>Code. Learn. Build. Repeat. ⚡</i></sub>
+<h4><sub><i>Code. Learn. Build. Repeat. ⚡</i></sub></h4>
 </div>
