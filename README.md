@@ -1,44 +1,84 @@
-<small><b>Turning ideas into code is my passion, and my heart truly belongs to algorithms. Every challenge is an opportunity to create magic with code! 🧠💻</b></small>
+<p align="center">
+  <sub><b>Turning ideas into code is my passion, and my heart truly belongs to algorithms. Every challenge is an opportunity to create magic with code! 🧠💻</b></sub>
+</p>
 
 <p align="center">
   <img 
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
     width="100%"
-    height="240"
+    height="220"
   />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00D9FF&center=true&vCenter=true&width=900&lines=Code.+Ship.+Repeat.;Turning+Ideas+into+Reality.;Builder+Mindset+Active." />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=20&duration=2600&color=00D9FF&center=true&vCenter=true&width=700&lines=Code.+Ship.+Repeat.;Turning+Ideas+into+Reality.;Builder+Mindset+Active."
+  />
 </p>
 
-## Tools I'm Comfortable With
+---
+
+## ⚙️ Tools I'm Comfortable With
 
 ```javascript
 const devStack = {
   languages: ["JavaScript", "TypeScript", "Python"],
   frontend: ["React", "Next.js", "Tailwind CSS"],
-  backend: ["Node.js", "Express", "RestAPI", "Webservices", "System Integration"],
-  databases: ["MongoDB", "Mysql", "PostgreSQL"],
-  tools: ["Git", "VS Code", "Postman","Prisma"],
+  backend: ["Node.js", "Express", "REST APIs", "System Integration"],
+  databases: ["MongoDB", "PostgreSQL", "MySQL", "Neon"],
+  tools: ["Git", "VS Code", "Postman"],
   cloud: ["Vercel", "Netlify"]
 };
 
-const me = { stack: ["JS/TS", "React", "Node", "Mongo", "Netlify"], mindset: "builder", success: false };
+const me = {
+  mindset: "builder",
+  stack: ["JS/TS", "React", "Node", "Mongo"],
+};
 
 while (me.mindset === "builder") {
-  experiment(devStack);
+  build();
   debug();
   optimize();
   deploy();
-  me.success = shipped();
-  if (!me.success) {
+  if (!shipped()) {
     learn();
-    build();
-    fail();
     improve();
     repeat();
-  } else {
-    break;
-  }
+  } else break;
 }
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fiacredev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiacredev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fiacredev&theme=tokyonight&hide_border=true&background=0d1117" height="160"/>
+</p>
+
+---
+
+<div align="center">
+
+<a href="mailto:f.uwimpuhwe@alustudent.com">
+  <img src="https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=white" height="18"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/fiacredev">
+  <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white" height="18"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yourprofile/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="18"/>
+</a>
+
+<br><br>
+
+<sub><i>Code. Learn. Build. Repeat. 🚀</i></sub>
+
+</div>
