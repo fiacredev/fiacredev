@@ -18,7 +18,7 @@
 
 ---
 
-## ⚙️ Tools I'm Comfortable With
+## Tools I'm Comfortable With
 
 ```javascript
 const devStack = {
@@ -49,20 +49,6 @@ while (me.mindset === "builder") {
 ```
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiacredev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiacredev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=fiacredev&theme=tokyonight&hide_border=true&background=0d1117" height="160"/>
-</p>
-
----
-
 <div align="center">
 
 <a href="mailto:f.uwimpuhwe@alustudent.com">
@@ -76,9 +62,6 @@ while (me.mindset === "builder") {
 <a href="https://www.linkedin.com/in/yourprofile/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="18"/>
 </a>
-
 <br><br>
-
 <sub><i>Code. Learn. Build. Repeat. 🚀</i></sub>
-
 </div>
