@@ -1,5 +1,5 @@
 <p align="center">
-  <sub><b>Turning ideas into code is my passion, and my heart truly belongs to algorithms. Every challenge is an opportunity to create magic with code! 🧠💻</b></sub>
+  <sub><h5><b>Turning ideas into code is my passion, and my heart truly belongs to algorithms. Every challenge is an opportunity to create magic with code! 🧠💻</b>h5></b></sub>
 </p>
 
 <p align="center">
@@ -25,8 +25,8 @@ const devStack = {
   languages: ["JavaScript", "TypeScript", "Python"],
   frontend: ["React", "Next.js", "Tailwind CSS"],
   backend: ["Node.js", "Express", "REST APIs", "System Integration"],
-  databases: ["MongoDB", "PostgreSQL", "MySQL", "Neon"],
-  tools: ["Git", "VS Code", "Postman"],
+  databases: ["MongoDB", "PostgreSQL", "MySQL"],
+  tools: ["Git", "VS Code", "Postman". "Prisma"],
   cloud: ["Vercel", "Netlify"]
 };
 
