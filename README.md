@@ -1,5 +1,4 @@
-<small>**Turning ideas into code is my passion, and my heart truly belongs to algorithms. Every challenge is an opportunity to create magic with code! 🧠💻**</small>
-
+<small><b>Turning ideas into code is my passion, and my heart truly belongs to algorithms. Every challenge is an opportunity to create magic with code! 🧠💻</b></small>
 
 <p align="center">
   <img 
@@ -10,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00D9FF&center=true&vCenter=true&width=900&lines=Code.+Ship.+Repeat.;Turning+Ideas+into+Reality.;Builder+Mindset+Active." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00D9FF&center=true&vCenter=true&width=900&lines=Code.+Ship.+Repeat.;Turning+Ideas+into+Reality.;Builder+Mindset+Active." />
 </p>
 
 ## Tools I'm Comfortable With
@@ -20,8 +19,8 @@ const devStack = {
   languages: ["JavaScript", "TypeScript", "Python"],
   frontend: ["React", "Next.js", "Tailwind CSS"],
   backend: ["Node.js", "Express", "RestAPI", "Webservices", "System Integration"],
-  databases: ["MongoDB", "PostgreSQL", "Mysql", "Neon"],
-  tools: ["Git", "VS Code", "Postman"],
+  databases: ["MongoDB", "Mysql", "PostgreSQL"],
+  tools: ["Git", "VS Code", "Postman","Prisma"],
   cloud: ["Vercel", "Netlify"]
 };
 
@@ -43,33 +42,3 @@ while (me.mindset === "builder") {
     break;
   }
 }
-````
-### It would be great to connect with you.
-
-<br><br>
-
-<div align="center">
-  
-<a href="mailto:f.uwimpuhwe@alustudent.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-Connect-blue?style=for-the-badge&logo=gmail" alt="Email">
-</a>
-
-
-  
-  <hr style="width: 50%; border: 1px solid #ccc; margin: 10px 0;"> <!-- Horizontal line -->
-
-  <a href="https://github.com/fiacredev" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-
-  <hr style="width: 50%; border: 1px solid #ccc; margin: 10px 0;">
-  
-  <a href="https://www.linkedin.com/in/yourprofile/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  
-  <hr style="width: 50%; border: 1px solid #ccc; margin: 20px 0;">
-
-  I’m obsessed with coding, and I live and breathe code. Coding runs through my veins, and my heart beats in every line I write. ❤️✨
-
-</div>
