@@ -1,5 +1,5 @@
 <p align="center">
-<h3><b><sub>Turning ideas into code is my passion, and my heart truly belongs to algorithms. Every challenge is an opportunity to create magic with code! 🧠💻</sub></b></h3>
+<h2><b><sub>Turning ideas into code is my passion, and my heart truly belongs to algorithms. Every challenge is an opportunity to create magic with code! 🧠💻</sub></b></h2>
 </p>
 
 <p align="center">
