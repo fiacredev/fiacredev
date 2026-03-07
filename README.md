@@ -52,15 +52,17 @@ while (me.mindset === "builder") {
 <div align="center">
 
 <a href="mailto:f.uwimpuhwe@alustudent.com">
-  <img src="https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=white" height="18"/>
+  <img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
+
 <a href="https://github.com/fiacredev">
-  <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white" height="18"/>
+  <img src="https://img.shields.io/badge/GitHub-yellow?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 &nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/yourprofile/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="18"/>
+  <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <h3><sub><i>Powered by coffee and logic ☕💻, it’s just me and my laptop writing endless lines of code. CODE MODE:🟢, living the coding life.</i></sub></h3>
 </div>
