@@ -62,5 +62,5 @@ while (me.mindset === "builder") {
 <a href="https://www.linkedin.com/in/yourprofile/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="18"/>
 </a>
-<h3><sub><i>Code. Learn. Build. Repeat. ⚡</i></sub></h3>
+<h3><sub><i>Powered by coffee and logic ☕💻, it’s just me and my laptop writing endless lines of code. CODE MODE:🟢, living the coding life.</i></sub></h3>
 </div>
