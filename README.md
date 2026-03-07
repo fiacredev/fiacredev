@@ -51,18 +51,18 @@ while (me.mindset === "builder") {
 ---
 <div align="center">
 
-<a href="mailto:f.uwimpuhwe@alustudent.com">
-  <img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://github.com/fiacredev">
-  <img src="https://img.shields.io/badge/GitHub-yellow?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/yourprofile/">
-  <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="mailto:f.uwimpuhwe@alustudent.com">
+    <img src="https://img.shields.io/badge/Email-FFA94D?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/fiacredev">
+    <img src="https://img.shields.io/badge/GitHub-FFD43B?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yourprofile/">
+    <img src="https://img.shields.io/badge/LinkedIn-69DB7C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 <h3><sub><i>Powered by coffee and logic ☕💻, it’s just me and my laptop writing endless lines of code. CODE MODE:🟢, living the coding life.</i></sub></h3>
 </div>
