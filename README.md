@@ -27,7 +27,7 @@ const devStack = {
   backend: ["Node.js", "Express", "REST APIs", "System Integration"],
   databases: ["MongoDB", "PostgreSQL", "MySQL"],
   tools: ["Git", "VS Code", "Postman". "Prisma"],
-  cloud: ["Vercel", "Netlify"]
+  cloud: ["Vercel", "Render"]
 };
 
 const me = {
@@ -64,5 +64,5 @@ while (me.mindset === "builder") {
     <img src="https://img.shields.io/badge/LinkedIn-69DB7C?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-<h3><sub><i>Powered by coffee and logic ☕💻, it’s just me and my laptop writing endless lines of code. CODE MODE:🟢, living the coding life.</i></sub></h3>
+<h3><sub><i>Powered by logic and coffee 💻.  It’s just me and my laptop writing endless lines of code. CODE MODE:🟢, living the coding life. </i></sub></h3>
 </div>
