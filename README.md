@@ -60,8 +60,8 @@ while (me.mindset === "builder") {
     <img src="https://img.shields.io/badge/GitHub-FFD43B?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/yourprofile/">
-    <img src="https://img.shields.io/badge/LinkedIn-69DB7C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="[https://your-portfolio-link.com/](https://portifolio-rosy-three-76.vercel.app/)">
+    <img src="https://img.shields.io/badge/Portfolio-69DB7C?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 <h3><sub><i>Powered by logic and coffee 💻.  It’s just me and my laptop writing endless lines of code. CODE MODE:🟢, living the coding life. </i></sub></h3>
