@@ -52,7 +52,7 @@ while (me.mindset === "builder") {
 <div align="center">
 
 <p align="center">
-  <a href="[[https://your-portfolio-link.com/](https://portifolio-rosy-three-76.vercel.app/)](https://portifolio-rosy-three-76.vercel.app/)">
+  <a href="https://portifolio-rosy-three-76.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-69DB7C?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   &nbsp;
