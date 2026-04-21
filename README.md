@@ -64,5 +64,5 @@ while (me.mindset === "builder") {
     <img src="https://img.shields.io/badge/Email-FFA94D?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-<h3><sub><i>Powered by logic and coffee 💻.  It’s just me and my laptop writing endless lines of code. CODE MODE:🟢, living the coding life. </i></sub></h3>
+<h3><sub><i>Powered by logic and coffee. It’s just me and my laptop writing endless lines of code. Living the coding life. </i></sub></h3>
 </div>
